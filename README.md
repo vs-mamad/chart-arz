@@ -3,6 +3,9 @@
 
 <p>یک سورس ساده برای رسم نمودار چارت ارز ها</p>
 
+<img src="https://raw.githubusercontent.com/vs-mamad/chart-arz/refs/heads/main/tron.png"/>
+
+
 # نصب پیش‌نیاز ها
 
 <code>pip install requests pandas mplfinance datetime</code>
